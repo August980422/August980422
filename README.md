@@ -1,5 +1,3 @@
-# Hi, I'm August
-
 A high school student and aspiring computer science enthusiast who loves diving into logic and algorithms.
 
 ## Information
