@@ -18,4 +18,4 @@ A high school student and aspiring computer science enthusiast who loves diving 
 - **Core Interests:** Data Structures, Algorithm Design, Competitive Programming, Software Development
 
 ## GitHub Performance
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=August980422&show_icons=true&theme=radial)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)
