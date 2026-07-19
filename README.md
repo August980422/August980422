@@ -1,7 +1,7 @@
 A high school student and aspiring computer science enthusiast who loves diving into logic and algorithms.
 
 ## Information
-- **Name:** You can call me August or April, whatever.
+- **Name:** You can call me August, whatever.
 - **Language:** Chinese, English
 - **Location:** Taiwan (UTC+8)
 - **Pronouns:** she/her
