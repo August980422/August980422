@@ -5,7 +5,12 @@ A high school student and aspiring computer science enthusiast who loves diving 
 - **Pronouns:** she/her
 - **Club:** Software Development Club
 
-## Certifications & Goals
+## Certifications 
+| Certification | Level / Score | Language / Tools | Issuing Org |
+| :--- | :---: | :---: | :--- |
+| **APCS** (Advanced Placement Computer Science) | Concepts: 4/5 <br> Proficiency: 2/5 | Python | NTNU & Ministry of Education |
+
+## Goals
 - **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
 
