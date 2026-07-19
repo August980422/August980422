@@ -22,3 +22,4 @@ A high school student and aspiring computer science enthusiast who loves diving 
 
 ## GitHub Performance
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=August980422&layout=compact&hide_title=true&langs_count=10&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=August980422&layout=compact&hide_title=true&langs_count=10&theme=rose)
