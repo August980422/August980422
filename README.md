@@ -1,6 +1,7 @@
 A high school student and aspiring computer science enthusiast who loves diving into logic and algorithms.
 
 ## Information
+- **Language:** Chinese, English
 - **Location:** Taiwan (UTC+8)
 - **Pronouns:** she/her
 
@@ -17,7 +18,7 @@ A high school student and aspiring computer science enthusiast who loves diving 
 ## Goals
 - **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
-- **Core Interests:** Artificial Intelligence , Algorithm Design, Competitive Programming, Software Development, Information Security
+- **Core Interests:** Artificial Intelligence , Algorithm Design, Software Development, Information Security
 
 ## GitHub Performance
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=August980422&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)
