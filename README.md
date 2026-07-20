@@ -1,6 +1,6 @@
 # August
 
-A high school student and aspiring computer science enthusiast who loves diving into logic and algorithms.
+A high school student and aspiring computer science enthusiast who loves logic and algorithms.
 
 ## Information
 - **Name:** August
