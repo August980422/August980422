@@ -21,6 +21,10 @@ A high school student and aspiring computer science enthusiast who loves diving 
 > * Designed & deployed a school-wide system, used for cleaning and task management.
 > * Building with third-party databases
 
+> ### Group Buying System Development
+> * Designed a system to aggregate group buying orders and automate form generation.
+> * Building with Python & tkinter.
+
 ## Goals
 - **Current Goal:** Learning ML and DL.
 - **Aspirations:** Training NLP models and exploring artificial intelligence technologies.
