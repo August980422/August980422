@@ -4,7 +4,6 @@ Hello! I am August.
 
 ## Information
 - **Name:** August
-- **Pronouns:** she/her
 - **Language:** Chinese • English
 - **Programming Language:** Python • C++ • Javascript 
 - **Core Interests:** Artificial Intelligence • Algorithm Design • Software Development • Information Security
